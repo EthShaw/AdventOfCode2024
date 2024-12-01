@@ -1,2 +1,2 @@
 # AdventOfCode2024
-My solutions to Advent of Code 2024
+My attempt at [Advent of Code](https://adventofcode.com/) 2024. I wanted to learn about LLVM, so I did some experimenting for some of the days. LLVM code is derived from the LLVM tutorial found here: [https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/LangImpl01.html](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/LangImpl01.html). I do not make a strong effort to follow best programming practices since this is written under time constraint (trying to keep up with the advent calendar without allocating too much time each day to it).
